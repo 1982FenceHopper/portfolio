@@ -101,8 +101,8 @@ export default function Home() {
       >
         <div className="flex flex-col mx-[32rem] space-y-4 backdrop-blur-sm">
           <Header />
-          <TechStack />
           <Projects />
+          <TechStack />
         </div>
       </ScrollArea>
     </div>
