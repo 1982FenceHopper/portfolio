@@ -17,6 +17,8 @@ export default function Header() {
           Nashat Yafi
         </CardTitle>
         <CardDescription>
+          &#x2022;&nbsp;Backend Software Engineer
+          <br />
           &#x2022;&nbsp;Full-Stack Software Developer
           <br />
           &#x2022;&nbsp;Machine Learning Enthusiast

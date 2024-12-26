@@ -23,6 +23,7 @@ import {
   SiTypescript,
   SiZsh,
 } from "react-icons/si";
+import { TbBrandCSharp } from "react-icons/tb";
 import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
 
 export default function TechStack() {
@@ -71,6 +72,11 @@ export default function TechStack() {
       icon: <SiCplusplus size={32} />,
       text: "C++",
       delay: 2,
+    },
+    csharp: {
+      icon: <TbBrandCSharp size={32} />,
+      text: "C#",
+      delay: 3.25,
     },
     react: {
       icon: <SiReact size={32} />,
